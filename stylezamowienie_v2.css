@@ -1,0 +1,21 @@
+label {
+  display: flex;
+  margin: 0.4rem;
+}
+
+body {
+  background-color: rgb(243, 224, 190);
+}
+
+fieldset {
+  background-color: rgb(250, 237, 219);
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  margin-right: 0.2rem;
+  margin-left: 0.3rem;
+}
